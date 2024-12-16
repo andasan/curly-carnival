@@ -1,5 +1,4 @@
 import { FileTreeItem } from './FileTreeItem';
-import { Input } from '@/components/ui/input';
 import { FileSystemItem, File, Directory } from '@/types/fileSystem';
 
 interface FileExplorerProps {
